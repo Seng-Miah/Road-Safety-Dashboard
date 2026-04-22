@@ -1,0 +1,448 @@
+per_typ,marijuana,alcohol,per_type_label,age_group,cases
+1,0,0,Driver,0,10
+2,0,0,Passenger,0,50756
+2,0,1,Passenger,0,26
+2,1,0,Passenger,0,7
+2,1,1,Passenger,0,1
+3,0,0,Stationary Vehicle Occupant,0,324
+4,0,0,Non-motorized Vehicle Occupant,0,118
+5,0,0,Pedestrian,0,2575
+5,0,1,Pedestrian,0,6
+5,1,0,Pedestrian,0,6
+6,0,0,Bicyclist,0,126
+7,0,0,Unicycle/Tricycle,0,12
+8,0,0,Construction Worker,0,206
+1,0,0,Driver,5,156
+1,0,1,Driver,5,1
+2,0,0,Passenger,5,49103
+2,0,1,Passenger,5,16
+2,1,0,Passenger,5,2
+3,0,0,Stationary Vehicle Occupant,5,260
+4,0,0,Non-motorized Vehicle Occupant,5,103
+5,0,0,Pedestrian,5,2430
+5,0,1,Pedestrian,5,4
+5,1,0,Pedestrian,5,1
+6,0,0,Bicyclist,5,621
+6,0,1,Bicyclist,5,1
+7,0,0,Unicycle/Tricycle,5,11
+8,0,0,Construction Worker,5,152
+1,0,0,Driver,10,1945
+1,0,1,Driver,10,78
+1,1,0,Driver,10,54
+1,1,1,Driver,10,5
+2,0,0,Passenger,10,55829
+2,0,1,Passenger,10,127
+2,1,0,Passenger,10,103
+2,1,1,Passenger,10,1
+3,0,0,Stationary Vehicle Occupant,10,233
+4,0,0,Non-motorized Vehicle Occupant,10,101
+5,0,0,Pedestrian,10,2910
+5,0,1,Pedestrian,10,19
+5,1,0,Pedestrian,10,33
+5,1,1,Pedestrian,10,5
+6,0,0,Bicyclist,10,1281
+6,0,1,Bicyclist,10,4
+6,1,0,Bicyclist,10,16
+7,0,0,Unicycle/Tricycle,10,12
+8,0,0,Construction Worker,10,227
+8,0,1,Construction Worker,10,3
+8,1,0,Construction Worker,10,5
+1,0,0,Driver,15,89116
+1,0,1,Driver,15,11284
+1,1,0,Driver,15,5079
+1,1,1,Driver,15,1725
+2,0,0,Passenger,15,115244
+2,0,1,Passenger,15,2178
+2,1,0,Passenger,15,2041
+2,1,1,Passenger,15,206
+3,0,0,Stationary Vehicle Occupant,15,493
+3,0,1,Stationary Vehicle Occupant,15,1
+3,1,0,Stationary Vehicle Occupant,15,5
+4,0,0,Non-motorized Vehicle Occupant,15,119
+4,0,1,Non-motorized Vehicle Occupant,15,1
+5,0,0,Pedestrian,15,5800
+5,0,1,Pedestrian,15,621
+5,1,0,Pedestrian,15,499
+5,1,1,Pedestrian,15,113
+6,0,0,Bicyclist,15,1241
+6,0,1,Bicyclist,15,41
+6,1,0,Bicyclist,15,95
+6,1,1,Bicyclist,15,8
+7,0,0,Unicycle/Tricycle,15,3
+7,0,1,Unicycle/Tricycle,15,1
+8,0,0,Construction Worker,15,214
+8,0,1,Construction Worker,15,9
+8,1,0,Construction Worker,15,35
+8,1,1,Construction Worker,15,3
+1,0,0,Driver,20,122071
+1,0,1,Driver,20,32598
+1,1,0,Driver,20,8421
+1,1,1,Driver,20,4670
+2,0,0,Passenger,20,87310
+2,0,1,Passenger,20,3079
+2,1,0,Passenger,20,1987
+2,1,1,Passenger,20,273
+3,0,0,Stationary Vehicle Occupant,20,727
+3,0,1,Stationary Vehicle Occupant,20,13
+3,1,0,Stationary Vehicle Occupant,20,13
+4,0,0,Non-motorized Vehicle Occupant,20,86
+4,0,1,Non-motorized Vehicle Occupant,20,3
+4,1,0,Non-motorized Vehicle Occupant,20,1
+5,0,0,Pedestrian,20,7600
+5,0,1,Pedestrian,20,2035
+5,1,0,Pedestrian,20,732
+5,1,1,Pedestrian,20,309
+6,0,0,Bicyclist,20,901
+6,0,1,Bicyclist,20,86
+6,1,0,Bicyclist,20,115
+6,1,1,Bicyclist,20,18
+7,0,0,Unicycle/Tricycle,20,7
+8,0,0,Construction Worker,20,148
+8,0,1,Construction Worker,20,19
+8,1,0,Construction Worker,20,25
+8,1,1,Construction Worker,20,8
+1,0,0,Driver,25,106351
+1,0,1,Driver,25,26388
+1,1,0,Driver,25,6196
+1,1,1,Driver,25,3330
+2,0,0,Passenger,25,53656
+2,0,1,Passenger,25,1819
+2,1,0,Passenger,25,1037
+2,1,1,Passenger,25,155
+3,0,0,Stationary Vehicle Occupant,25,755
+3,0,1,Stationary Vehicle Occupant,25,5
+3,1,0,Stationary Vehicle Occupant,25,11
+4,0,0,Non-motorized Vehicle Occupant,25,89
+4,1,0,Non-motorized Vehicle Occupant,25,1
+5,0,0,Pedestrian,25,7792
+5,0,1,Pedestrian,25,2096
+5,1,0,Pedestrian,25,683
+5,1,1,Pedestrian,25,292
+6,0,0,Bicyclist,25,927
+6,0,1,Bicyclist,25,95
+6,1,0,Bicyclist,25,91
+6,1,1,Bicyclist,25,13
+7,0,0,Unicycle/Tricycle,25,6
+7,0,1,Unicycle/Tricycle,25,1
+8,0,0,Construction Worker,25,116
+8,0,1,Construction Worker,25,18
+8,1,0,Construction Worker,25,13
+8,1,1,Construction Worker,25,3
+1,0,0,Driver,30,97740
+1,0,1,Driver,30,21127
+1,1,0,Driver,30,4351
+1,1,1,Driver,30,2275
+2,0,0,Passenger,30,39206
+2,0,1,Passenger,30,1124
+2,1,0,Passenger,30,567
+2,1,1,Passenger,30,80
+3,0,0,Stationary Vehicle Occupant,30,689
+3,0,1,Stationary Vehicle Occupant,30,4
+3,1,0,Stationary Vehicle Occupant,30,5
+4,0,0,Non-motorized Vehicle Occupant,30,82
+4,0,1,Non-motorized Vehicle Occupant,30,1
+4,1,1,Non-motorized Vehicle Occupant,30,1
+5,0,0,Pedestrian,30,8127
+5,0,1,Pedestrian,30,2015
+5,1,0,Pedestrian,30,572
+5,1,1,Pedestrian,30,236
+6,0,0,Bicyclist,30,973
+6,0,1,Bicyclist,30,115
+6,1,0,Bicyclist,30,98
+6,1,1,Bicyclist,30,20
+7,0,0,Unicycle/Tricycle,30,4
+8,0,0,Construction Worker,30,129
+8,0,1,Construction Worker,30,13
+8,1,0,Construction Worker,30,6
+8,1,1,Construction Worker,30,1
+1,0,0,Driver,35,93377
+1,0,1,Driver,35,18098
+1,1,0,Driver,35,3398
+1,1,1,Driver,35,1679
+2,0,0,Passenger,35,33017
+2,0,1,Passenger,35,875
+2,1,0,Passenger,35,369
+2,1,1,Passenger,35,64
+3,0,0,Stationary Vehicle Occupant,35,641
+3,0,1,Stationary Vehicle Occupant,35,7
+3,1,0,Stationary Vehicle Occupant,35,2
+4,0,0,Non-motorized Vehicle Occupant,35,62
+4,0,1,Non-motorized Vehicle Occupant,35,4
+5,0,0,Pedestrian,35,8476
+5,0,1,Pedestrian,35,2227
+5,1,0,Pedestrian,35,519
+5,1,1,Pedestrian,35,211
+6,0,0,Bicyclist,35,1133
+6,0,1,Bicyclist,35,149
+6,1,0,Bicyclist,35,71
+6,1,1,Bicyclist,35,20
+7,0,0,Unicycle/Tricycle,35,7
+8,0,0,Construction Worker,35,101
+8,0,1,Construction Worker,35,10
+8,1,0,Construction Worker,35,7
+1,0,0,Driver,40,91910
+1,0,1,Driver,40,16471
+1,1,0,Driver,40,2615
+1,1,1,Driver,40,1307
+2,0,0,Passenger,40,29669
+2,0,1,Passenger,40,747
+2,1,0,Passenger,40,283
+2,1,1,Passenger,40,43
+3,0,0,Stationary Vehicle Occupant,40,715
+3,0,1,Stationary Vehicle Occupant,40,7
+3,1,0,Stationary Vehicle Occupant,40,2
+4,0,0,Non-motorized Vehicle Occupant,40,92
+4,1,0,Non-motorized Vehicle Occupant,40,1
+5,0,0,Pedestrian,40,8910
+5,0,1,Pedestrian,40,2484
+5,1,0,Pedestrian,40,411
+5,1,1,Pedestrian,40,158
+6,0,0,Bicyclist,40,1379
+6,0,1,Bicyclist,40,242
+6,1,0,Bicyclist,40,73
+6,1,1,Bicyclist,40,18
+7,0,0,Unicycle/Tricycle,40,5
+8,0,0,Construction Worker,40,140
+8,0,1,Construction Worker,40,16
+8,1,0,Construction Worker,40,8
+8,1,1,Construction Worker,40,1
+1,0,0,Driver,45,89142
+1,0,1,Driver,45,13667
+1,1,0,Driver,45,2275
+1,1,1,Driver,45,1034
+2,0,0,Passenger,45,26744
+2,0,1,Passenger,45,524
+2,1,0,Passenger,45,219
+2,1,1,Passenger,45,37
+3,0,0,Stationary Vehicle Occupant,45,657
+3,0,1,Stationary Vehicle Occupant,45,3
+3,1,0,Stationary Vehicle Occupant,45,2
+4,0,0,Non-motorized Vehicle Occupant,45,65
+4,0,1,Non-motorized Vehicle Occupant,45,5
+5,0,0,Pedestrian,45,9100
+5,0,1,Pedestrian,45,2489
+5,1,0,Pedestrian,45,381
+5,1,1,Pedestrian,45,174
+6,0,0,Bicyclist,45,1544
+6,0,1,Bicyclist,45,276
+6,1,0,Bicyclist,45,81
+6,1,1,Bicyclist,45,21
+7,0,0,Unicycle/Tricycle,45,12
+7,1,0,Unicycle/Tricycle,45,1
+8,0,0,Construction Worker,45,177
+8,0,1,Construction Worker,45,23
+8,1,0,Construction Worker,45,5
+8,1,1,Construction Worker,45,2
+1,0,0,Driver,50,85391
+1,0,1,Driver,50,10972
+1,1,0,Driver,50,1934
+1,1,1,Driver,50,785
+2,0,0,Passenger,50,24033
+2,0,1,Passenger,50,391
+2,1,0,Passenger,50,180
+2,1,1,Passenger,50,15
+3,0,0,Stationary Vehicle Occupant,50,593
+3,0,1,Stationary Vehicle Occupant,50,1
+3,1,0,Stationary Vehicle Occupant,50,3
+4,0,0,Non-motorized Vehicle Occupant,50,81
+4,0,1,Non-motorized Vehicle Occupant,50,4
+5,0,0,Pedestrian,50,9503
+5,0,1,Pedestrian,50,2495
+5,1,0,Pedestrian,50,359
+5,1,1,Pedestrian,50,159
+6,0,0,Bicyclist,50,1646
+6,0,1,Bicyclist,50,270
+6,1,0,Bicyclist,50,90
+6,1,1,Bicyclist,50,21
+7,0,0,Unicycle/Tricycle,50,9
+7,0,1,Unicycle/Tricycle,50,2
+7,1,0,Unicycle/Tricycle,50,1
+8,0,0,Construction Worker,50,187
+8,0,1,Construction Worker,50,31
+8,1,0,Construction Worker,50,16
+8,1,1,Construction Worker,50,2
+1,0,0,Driver,55,77274
+1,0,1,Driver,55,8017
+1,1,0,Driver,55,1594
+1,1,1,Driver,55,554
+2,0,0,Passenger,55,20124
+2,0,1,Passenger,55,229
+2,1,0,Passenger,55,136
+2,1,1,Passenger,55,11
+3,0,0,Stationary Vehicle Occupant,55,480
+3,0,1,Stationary Vehicle Occupant,55,1
+3,1,0,Stationary Vehicle Occupant,55,4
+4,0,0,Non-motorized Vehicle Occupant,55,72
+4,0,1,Non-motorized Vehicle Occupant,55,3
+5,0,0,Pedestrian,55,9321
+5,0,1,Pedestrian,55,1957
+5,1,0,Pedestrian,55,326
+5,1,1,Pedestrian,55,123
+6,0,0,Bicyclist,55,1738
+6,0,1,Bicyclist,55,221
+6,1,0,Bicyclist,55,71
+6,1,1,Bicyclist,55,18
+7,0,0,Unicycle/Tricycle,55,11
+7,1,0,Unicycle/Tricycle,55,1
+8,0,0,Construction Worker,55,241
+8,0,1,Construction Worker,55,39
+8,1,0,Construction Worker,55,5
+8,1,1,Construction Worker,55,3
+1,0,0,Driver,60,63332
+1,0,1,Driver,60,5124
+1,1,0,Driver,60,1068
+1,1,1,Driver,60,284
+2,0,0,Passenger,60,17259
+2,0,1,Passenger,60,117
+2,1,0,Passenger,60,59
+2,1,1,Passenger,60,3
+3,0,0,Stationary Vehicle Occupant,60,364
+3,0,1,Stationary Vehicle Occupant,60,2
+4,0,0,Non-motorized Vehicle Occupant,60,40
+5,0,0,Pedestrian,60,8321
+5,0,1,Pedestrian,60,1411
+5,1,0,Pedestrian,60,219
+5,1,1,Pedestrian,60,62
+6,0,0,Bicyclist,60,1422
+6,0,1,Bicyclist,60,169
+6,1,0,Bicyclist,60,45
+6,1,1,Bicyclist,60,9
+7,0,0,Unicycle/Tricycle,60,10
+7,0,1,Unicycle/Tricycle,60,1
+8,0,0,Construction Worker,60,214
+8,0,1,Construction Worker,60,28
+8,1,0,Construction Worker,60,9
+8,1,1,Construction Worker,60,1
+1,0,0,Driver,65,47619
+1,0,1,Driver,65,2969
+1,1,0,Driver,65,553
+1,1,1,Driver,65,118
+2,0,0,Passenger,65,14974
+2,0,1,Passenger,65,73
+2,1,0,Passenger,65,39
+2,1,1,Passenger,65,2
+3,0,0,Stationary Vehicle Occupant,65,207
+4,0,0,Non-motorized Vehicle Occupant,65,29
+5,0,0,Pedestrian,65,6875
+5,0,1,Pedestrian,65,760
+5,1,0,Pedestrian,65,113
+5,1,1,Pedestrian,65,28
+6,0,0,Bicyclist,65,1060
+6,0,1,Bicyclist,65,75
+6,1,0,Bicyclist,65,19
+6,1,1,Bicyclist,65,3
+7,0,0,Unicycle/Tricycle,65,6
+8,0,0,Construction Worker,65,233
+8,0,1,Construction Worker,65,21
+8,1,0,Construction Worker,65,3
+1,0,0,Driver,70,37779
+1,0,1,Driver,70,1648
+1,1,0,Driver,70,221
+1,1,1,Driver,70,54
+2,0,0,Passenger,70,13648
+2,0,1,Passenger,70,41
+2,1,0,Passenger,70,11
+2,1,1,Passenger,70,1
+3,0,0,Stationary Vehicle Occupant,70,120
+3,0,1,Stationary Vehicle Occupant,70,1
+3,1,0,Stationary Vehicle Occupant,70,1
+4,0,0,Non-motorized Vehicle Occupant,70,15
+4,0,1,Non-motorized Vehicle Occupant,70,1
+5,0,0,Pedestrian,70,5854
+5,0,1,Pedestrian,70,394
+5,1,0,Pedestrian,70,59
+5,1,1,Pedestrian,70,4
+6,0,0,Bicyclist,70,719
+6,0,1,Bicyclist,70,30
+6,1,0,Bicyclist,70,17
+6,1,1,Bicyclist,70,2
+7,0,0,Unicycle/Tricycle,70,11
+8,0,0,Construction Worker,70,203
+8,0,1,Construction Worker,70,13
+8,1,0,Construction Worker,70,5
+1,0,0,Driver,75,31081
+1,0,1,Driver,75,902
+1,1,0,Driver,75,74
+1,1,1,Driver,75,15
+2,0,0,Passenger,75,12351
+2,0,1,Passenger,75,22
+2,1,0,Passenger,75,9
+3,0,0,Stationary Vehicle Occupant,75,67
+4,0,0,Non-motorized Vehicle Occupant,75,17
+5,0,0,Pedestrian,75,5322
+5,0,1,Pedestrian,75,201
+5,1,0,Pedestrian,75,17
+6,0,0,Bicyclist,75,534
+6,0,1,Bicyclist,75,8
+7,0,0,Unicycle/Tricycle,75,5
+8,0,0,Construction Worker,75,169
+8,0,1,Construction Worker,75,4
+8,1,0,Construction Worker,75,1
+1,0,0,Driver,80,23365
+1,0,1,Driver,80,438
+1,1,0,Driver,80,30
+1,1,1,Driver,80,4
+2,0,0,Passenger,80,9861
+2,0,1,Passenger,80,10
+2,1,0,Passenger,80,1
+3,0,0,Stationary Vehicle Occupant,80,35
+4,0,0,Non-motorized Vehicle Occupant,80,7
+5,0,0,Pedestrian,80,4405
+5,0,1,Pedestrian,80,99
+5,1,0,Pedestrian,80,6
+5,1,1,Pedestrian,80,1
+6,0,0,Bicyclist,80,261
+6,0,1,Bicyclist,80,3
+6,1,0,Bicyclist,80,1
+7,0,0,Unicycle/Tricycle,80,2
+7,0,1,Unicycle/Tricycle,80,1
+8,0,0,Construction Worker,80,138
+8,0,1,Construction Worker,80,2
+1,0,0,Driver,85,13825
+1,0,1,Driver,85,165
+1,1,0,Driver,85,18
+1,1,1,Driver,85,3
+2,0,0,Passenger,85,6306
+2,0,1,Passenger,85,5
+2,1,0,Passenger,85,2
+3,0,0,Stationary Vehicle Occupant,85,14
+4,0,0,Non-motorized Vehicle Occupant,85,2
+5,0,0,Pedestrian,85,2597
+5,0,1,Pedestrian,85,39
+5,1,0,Pedestrian,85,9
+6,0,0,Bicyclist,85,140
+6,0,1,Bicyclist,85,3
+7,0,0,Unicycle/Tricycle,85,2
+8,0,0,Construction Worker,85,96
+1,0,0,Driver,90,4644
+1,0,1,Driver,90,43
+1,1,0,Driver,90,5
+1,1,1,Driver,90,1
+2,0,0,Passenger,90,2693
+2,0,1,Passenger,90,2
+3,0,0,Stationary Vehicle Occupant,90,12
+5,0,0,Pedestrian,90,973
+5,0,1,Pedestrian,90,11
+6,0,0,Bicyclist,90,30
+6,1,0,Bicyclist,90,1
+7,0,0,Unicycle/Tricycle,90,4
+8,0,0,Construction Worker,90,58
+8,0,1,Construction Worker,90,2
+1,0,0,Driver,95,8667
+1,0,1,Driver,95,142
+1,1,0,Driver,95,7
+2,0,0,Passenger,95,10588
+2,0,1,Passenger,95,79
+2,1,0,Passenger,95,3
+3,0,0,Stationary Vehicle Occupant,95,57
+4,0,0,Non-motorized Vehicle Occupant,95,13
+5,0,0,Pedestrian,95,551
+5,0,1,Pedestrian,95,70
+5,1,0,Pedestrian,95,6
+5,1,1,Pedestrian,95,1
+6,0,0,Bicyclist,95,40
+6,0,1,Bicyclist,95,9
+8,0,0,Construction Worker,95,31
+1,0,0,Driver,100,12
+2,0,0,Passenger,100,16
+5,0,0,Pedestrian,100,3

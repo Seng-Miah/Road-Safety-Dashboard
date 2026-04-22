@@ -1,0 +1,132 @@
+per_typ,marijuana,alcohol,race_clean,cases
+1,0,0,Asian,7841
+1,0,1,Asian,1089
+1,1,0,Asian,307
+1,1,1,Asian,125
+2,0,0,Asian,5287
+2,0,1,Asian,81
+2,1,0,Asian,116
+2,1,1,Asian,7
+3,0,0,Asian,36
+3,1,0,Asian,1
+4,0,0,Asian,2
+5,0,0,Asian,4432
+5,0,1,Asian,366
+5,1,0,Asian,93
+5,1,1,Asian,22
+6,0,0,Asian,535
+6,0,1,Asian,31
+6,1,0,Asian,15
+6,1,1,Asian,1
+7,0,0,Asian,3
+8,0,0,Asian,79
+8,0,1,Asian,4
+8,1,0,Asian,3
+8,1,1,Asian,1
+1,0,0,Black,53816
+1,0,1,Black,11460
+1,1,0,Black,5115
+1,1,1,Black,1744
+2,0,0,Black,24000
+2,0,1,Black,551
+2,1,0,Black,1464
+2,1,1,Black,103
+3,0,0,Black,160
+3,0,1,Black,8
+3,1,0,Black,12
+4,0,0,Black,13
+4,0,1,Black,5
+4,1,0,Black,1
+5,0,0,Black,19927
+5,0,1,Black,3672
+5,1,0,Black,1283
+5,1,1,Black,380
+6,0,0,Black,2248
+6,0,1,Black,320
+6,1,0,Black,154
+6,1,1,Black,36
+7,0,0,Black,13
+7,0,1,Black,1
+8,0,0,Black,448
+8,0,1,Black,41
+8,1,0,Black,17
+8,1,1,Black,2
+1,0,0,Native American,4635
+1,0,1,Native American,2418
+1,1,0,Native American,363
+1,1,1,Native American,306
+2,0,0,Native American,3549
+2,0,1,Native American,442
+2,1,0,Native American,191
+2,1,1,Native American,63
+3,0,0,Native American,6
+3,1,0,Native American,1
+4,0,0,Native American,1
+5,0,0,Native American,1780
+5,0,1,Native American,916
+5,1,0,Native American,140
+5,1,1,Native American,105
+6,0,0,Native American,159
+6,0,1,Native American,21
+6,1,0,Native American,15
+6,1,1,Native American,2
+8,0,0,Native American,29
+8,0,1,Native American,4
+8,1,0,Native American,1
+1,0,0,Other,689793
+1,0,1,Other,74313
+1,1,0,Other,11015
+1,1,1,Other,6118
+2,0,0,Other,525728
+2,0,1,Other,6541
+2,1,0,Other,738
+2,1,1,Other,152
+3,0,0,Other,6682
+3,0,1,Other,29
+3,1,0,Other,12
+4,0,0,Other,906
+4,0,1,Other,5
+5,0,0,Other,25080
+5,0,1,Other,2504
+5,1,0,Other,392
+5,1,1,Other,116
+6,0,0,Other,2828
+6,0,1,Other,147
+6,1,0,Other,67
+6,1,1,Other,11
+7,0,0,Other,36
+7,0,1,Other,1
+8,0,0,Other,700
+8,0,1,Other,31
+8,1,0,Other,8
+8,1,1,Other,2
+1,0,0,White,347251
+1,0,1,White,81043
+1,1,0,White,21116
+1,1,1,White,9556
+2,0,0,White,124024
+2,0,1,White,3923
+2,1,0,White,4558
+2,1,1,White,567
+3,0,0,White,721
+3,0,1,White,8
+3,1,0,White,22
+4,0,0,White,305
+4,0,1,White,12
+4,1,0,White,2
+4,1,1,White,1
+5,0,0,White,67194
+5,0,1,White,14058
+5,1,0,White,3056
+5,1,1,White,1256
+6,0,0,White,12103
+6,0,1,White,1283
+6,1,0,White,636
+6,1,1,White,122
+7,0,0,White,89
+7,0,1,White,4
+7,1,0,White,3
+8,0,0,White,1947
+8,0,1,White,172
+8,1,0,White,115
+8,1,1,White,20
